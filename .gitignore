@@ -1,0 +1,173 @@
+# Crashlytics plugin (for Android Studio and IntelliJ)
+
+Last login: Fri Feb  8 17:36:03 on ttys002
+ jskalska@MacBook-Pro-jskalska  ~  cd Documents/Hybris/ahr/                                                                                                                        ✔  4365  18:32:26
+ jskalska@MacBook-Pro-jskalska  ~/Documents/Hybris/ahr   bugfix/ahr-3396 ● ↑2149 ⍟4  git s                                                                                       ✔  4366  18:32:38
+ M hybris/config/licence/installedSaplicenses.properties
+ jskalska@MacBook-Pro-jskalska  ~/Documents/Hybris/ahr   bugfix/ahr-3396 ● ↑2149 ⍟4  git reset --hard                                                                            ✔  4367  18:32:39
+HEAD is now at be4bffa719 Merge branch 'develop' into bugfix/ahr-3396
+ jskalska@MacBook-Pro-jskalska  ~/Documents/Hybris/ahr   bugfix/ahr-3396 ↑2149 ⍟4  git s                                                                                         ✔  4368  18:33:14
+ jskalska@MacBook-Pro-jskalska  ~/Documents/Hybris/ahr   bugfix/ahr-3396 ↑2149 ⍟4  git s                                                                                         ✔  4369  18:33:18
+ jskalska@MacBook-Pro-jskalska  ~/Documents/Hybris/ahr   develop ⍟2  git reset --hard ^HEAD                                                                                      ✔  4369  18:34:02
+fatal: ambiguous argument '^HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+ jskalska@MacBook-Pro-jskalska  ~/Documents/Hybris/ahr   bugfix/ahr-3396 ↑2149 ⍟2  git reset --hard HEAD^                                                                    128 ↵  4370  18:34:37
+HEAD is now at e39006936e AHR-3396 Store cart modification errors in the session
+ jskalska@MacBook-Pro-jskalska  ~/Documents/Hybris/ahr   develop ● ↓2 ⍟4  cd ..                                                                                                  ✔  4371  20:09:13
+ jskalska@MacBook-Pro-jskalska  ~/Documents/Hybris  cd ..                                                                                                                          ✔  4430  22:11:32
+ jskalska@MacBook-Pro-jskalska  ~/Documents  ls                                                                                                                                    ✔  4430  22:11:34
+Hybris         HybrisTraining Personal       SonarQube      Tomcat         Untitled-1     VPProjects     Zoom           json-to-csv    sun_checks.xml
+ jskalska@MacBook-Pro-jskalska  ~/Documents  cd Personal/PWr/VI/Java/discrete-knapsack-problem/                                                                                    ✔  4431  22:11:35
+ jskalska@MacBook-Pro-jskalska  ~/Documents/Personal/PWr/VI/Java/discrete-knapsack-problem  git init                                                                               ✔  4432  22:11:50
+Initialized empty Git repository in /Users/jskalska/Documents/Personal/PWr/VI/Java/discrete-knapsack-problem/.git/
+ jskalska@MacBook-Pro-jskalska  ~/Documents/Personal/PWr/VI/Java/discrete-knapsack-problem   master ?  vim .gitignore                                                            ✔  4433  22:11:52
+ jskalska@MacBook-Pro-jskalska  ~/Documents/Personal/PWr/VI/Java/discrete-knapsack-problem   master ?  git s                                                                     ✔  4434  22:31:17
+?? .gitignore
+?? .idea/
+?? src/
+?? untitled104.iml
+ jskalska@MacBook-Pro-jskalska  ~/Documents/Personal/PWr/VI/Java/discrete-knapsack-problem   master ?  vim .gitignore                                                            ✔  4435  22:31:48
+ jskalska@MacBook-Pro-jskalska  ~/Documents/Personal/PWr/VI/Java/discrete-knapsack-problem   master ?  ls                                                                        ✔  4436  22:32:10
+README.md src
+ jskalska@MacBook-Pro-jskalska  ~/Documents/Personal/PWr/VI/Java/discrete-knapsack-problem   master ?  vim .gitignore                                                            ✔  4437  22:41:01
+ jskalska@MacBook-Pro-jskalska  ~/Documents/Personal/PWr/VI/Java/discrete-knapsack-problem   master ?  git                                                                       ✔  4438  22:41:10
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+# Crashlytics plugin (for Android Studio and IntelliJ)
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+...skipping...
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+HELP.md
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+".gitignore" 26L, 277C
